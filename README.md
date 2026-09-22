@@ -1,8 +1,10 @@
 September 22, 2026
 
-<!-- notify 1/2 · exwg4WHj -->
-## Notification 1/2
-Round: Round 1
-To: rcvaleroloco@aol.com, jruchida@aol.com
-At: 2026-09-22 14:08:40
-Id: exwg4WHj
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: duanxing_vicki@hotmail.com, ltin100@yahoo.com
+At: 2026-09-22 14:08:49
+Id: hlDwGSGL
